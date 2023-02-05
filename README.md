@@ -11,4 +11,7 @@ There's yet no official python SDK for ChatGPT. Here we use a few non-official o
 
 ### Image generator 
 
-### GPT-3 API 
+
+
+### GPT3 API 
+
