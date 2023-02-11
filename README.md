@@ -15,7 +15,7 @@ There's yet no official python SDK for ChatGPT. Here we use a few non-official o
 
 Stable Diffusion: a deep learning, text-to-image model released in 2022. It generates detailed images conditioned on text descriptions. 
 
-### GPT-33 API 
+### GPT-3 API 
 
 Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model released in 2020 that uses deep learning to produce human-like text. 
 
